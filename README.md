@@ -20,7 +20,7 @@
 To start using `go-dispatcher`, install the package using `go get`:
 
 ```bash
-go get https://github.com/Brennan7/go-dispatcher
+go get github.com/Brennan7/go-dispatcher
 ```
 
 ## Dispatcher Methods

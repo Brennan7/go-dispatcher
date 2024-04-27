@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-dispatcher/dispatcher"
+	"github.com/Brennan7/go-dispatcher/dispatcher"
 	"log"
 	"time"
 )
